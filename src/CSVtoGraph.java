@@ -12,7 +12,7 @@ public class CSVtoGraph {
 
     public static void main() {
 
-        String csvFile = "2017_Q2_airfare.csv";
+        String csvFile = "../data/2017_Q2_airfare.csv";
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ",";
