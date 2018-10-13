@@ -4,7 +4,7 @@ This project uses a graph representation to implement **Dijkstra's algorithm** f
 
 
 ### Running the Program
-The driver program you will run is `cheapest-airfares/src/airportGraph.java`. It takes one of the following arguments.
+The driver program you will run is `cheapest-airfares/src/AirportGraph.java`. It takes one of the following arguments.
 
 * `-p`: finding cheapest paths
 
